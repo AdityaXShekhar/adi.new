@@ -2,15 +2,11 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="center">MCA student passionate about Computer Networks, Operating Systems, and Database Systems. I enjoy building system-level projects and exploring how software works behind the scenes.<br>Future developer in the making 🚀 | exploring system design, networking, and backend development | Turning ideas into working code</p>
+<p align="center">MCA student passionate about Computer Networks, Operating Systems, and Database Systems. I enjoy building system-level projects and exploring how software works behind the scenes.<br>Future developer in the making 🚀 | exploring system design, networking, and backend development | Turning ideas into working code <br>-Aditya shekhar</p>
 
 ###
 
